@@ -81,7 +81,7 @@ export default function Portfolio() {
           <div className="mb-8 animate-fade-in">
             <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-cyan-500 to-blue-500 p-1">
               <img 
-                src="public/manoj.jpeg" 
+                src="/manoj.jpeg" 
                 alt="Manoj Gathram"
                 className="w-full h-full rounded-full object-cover"
               />
